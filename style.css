@@ -1,4 +1,23 @@
+
 header {
-background-color: #383D58;
-color: white;
+    background-color: #3a4377;
+    color: white;
+    display: flex;
+    justify-content: space-around;
 }
+      
+.cabecalho-imagem{
+    width: 20%;
+}
+
+.messi{
+    width: 15%;
+    height: 15%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+}
+
+
